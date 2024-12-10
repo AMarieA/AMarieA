@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AMarieA
-- 👀 I’m interested in computers, adventure, dogs
+- 👀 I’m interested in data, machine learning, adventure, dogs
 - 🌱 I’m currently learning Articifical Intellegience, databases, and python
 
 
